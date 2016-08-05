@@ -1,3 +1,4 @@
+
 #Newton's Approximation of square root
 def approx_square_root():
     y = 1
